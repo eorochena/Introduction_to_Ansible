@@ -1,4 +1,5 @@
-# Introduction_to_Ansible
+# Introduction to Ansible
+
 Learning Ansible with me
 
 This repository contains the course material for the Introduction to Ansible Course.
