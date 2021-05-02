@@ -26,4 +26,9 @@ structure. Grouping content by roles also allows easy sharing of roles with othe
 ### Playbooks
 
 Playbooks is Ansible's configuration, deployment and orchestration language. Playbooks can describe a policy or a process
-you want to deploy on a remote system. 
+you want to deploy on a remote system.
+
+## Online Resources
+
+- https://github.com/eorochena/Introduction_to_Ansible/blob/main/lectures/001-Introduction_to_Ansible.md
+- https://docs.ansible.com/ 
