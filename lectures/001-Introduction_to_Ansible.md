@@ -12,7 +12,7 @@ this tool by covering the following objectives:
 
 ### Modules
 
-Ansible Modules are scripts that come with the ansible package and are used to accomplish certain tasks.
+Ansible Modules are scripts that come with the ansible package and are used to accomplish several tasks.
 
 ### Tasks
 
