@@ -16,7 +16,7 @@ Ansible Modules are scripts that come with the ansible package and are used to a
 
 ### Tasks
 
-Tasks are actions ins ansible. You can also execute tasks with an ad-hoc command.
+Tasks are actions ins ansible. You can also execute tasks with ad-hoc commands.
 
 ### Roles 
 
