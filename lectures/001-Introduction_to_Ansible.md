@@ -16,7 +16,7 @@ Ansible Modules are scripts that come with the ansible package and are used to a
 
 ### Tasks
 
-Tasks are actions ins ansible. You can also execute tasks with ad-hoc commands.
+Tasks are actions in ansible. You can also execute tasks with ad-hoc commands.
 
 ### Roles 
 
@@ -25,7 +25,7 @@ structure. Grouping content by roles also allows easy sharing of roles with othe
 
 ### Playbooks
 
-Playbooks is Ansible's configuration, deployment and orchestration language. Playbooks can describe a policy or a process
+Playbooks are Ansible's configuration, deployment and orchestration language. Playbooks can describe a policy or a process
 you want to deploy on a remote system.
 
 ## Online Resources
